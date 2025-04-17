@@ -22,5 +22,8 @@ ERC20, BEP20: <br/>
 
 **Server2**
 ------------------------------------------------
-Sun Trc20 : TD1BHiYkgkEGWM8ckNbWDQzEp9ysdQDS3t
-Sun Erc20 : 0xED7EDA4FbbdC8Bac6cd45c84c595cE038131a7d4
+Sun Trc20 : <br/>
+TD1BHiYkgkEGWM8ckNbWDQzEp9ysdQDS3t
+
+Sun Erc20 : <br/>
+0xED7EDA4FbbdC8Bac6cd45c84c595cE038131a7d4
