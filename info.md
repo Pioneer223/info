@@ -17,3 +17,10 @@ TCiLQuG9oR2WdQ2dfTzeUHAxM9ftb3h5dK
 
 ERC20, BEP20: <br/>
 0x71e74d7196989F8EEf5fae70dFb2359734Ee1850
+
+
+
+**Server2**
+------------------------------------------------
+Sun Trc20 : TD1BHiYkgkEGWM8ckNbWDQzEp9ysdQDS3t
+Sun Erc20 : 0xED7EDA4FbbdC8Bac6cd45c84c595cE038131a7d4
