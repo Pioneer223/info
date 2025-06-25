@@ -17,3 +17,13 @@ TCiLQuG9oR2WdQ2dfTzeUHAxM9ftb3h5dK
 
 ERC20, BEP20: <br/>
 0x71e74d7196989F8EEf5fae70dFb2359734Ee1850
+
+
+
+**Server 001**
+------------------------------------------------
+
+Btc : bc1qjz8zrmq4z4yzvsxqjg0cse7u26yhqe8hl07pnw
+Eth/Bnb : 0x031147987dCFA3B162C766ef8e67a0e4F7D02868
+Sol : 91RU6vcJWhCLY9nYt7iB2nanWn4NAv4QdZDVpZ2WDFyE
+Sui : 0x454cb5c80554a716a208a532d5efe8a0f5de9e815df4edecdd96b62b611e23b9
