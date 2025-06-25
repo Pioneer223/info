@@ -25,6 +25,7 @@ ERC20, BEP20: <br/>
 
 Btc : bc1qjz8zrmq4z4yzvsxqjg0cse7u26yhqe8hl07pnw <br/>
 Eth/Bnb : 0x031147987dCFA3B162C766ef8e67a0e4F7D02868 <br/>
+Trx : TCZd4t9VJHd7x2nG4E6vp2eNDbuqTp6txU <br/>
 Sol : 91RU6vcJWhCLY9nYt7iB2nanWn4NAv4QdZDVpZ2WDFyE <br/>
 Sui : 0x454cb5c80554a716a208a532d5efe8a0f5de9e815df4edecdd96b62b611e23b9 <br/>
 
