@@ -75,3 +75,9 @@ Eth/Bnb : 0xfcF66e40C1362B4668EC67ec4440311BeBDc67fF <br/>
 Trx : TYPo59VLGggjJ6hDCuEVN6sDdHuBZCCDNN <br/>
 Sol : C9HFi1bek8KAXpD2uNZwqZP9wwkjkid9aGDMoXcWczbD <br/>
 Sui : 0xa11061f1c5dfb3bab9a9d658c4975dba04f8a05903cb04fe08e8b4e65c921572 <br/>
+
+**CLIENT 1**
+------------------------------------------------
+
+Trc20: TZ5g5vVYFhmzqUgTENrZYgMdo7LDswC4vG
+Erc20: 0xB69Da5FcDF62D52E0a4F1F817a12287933270b76
