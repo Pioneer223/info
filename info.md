@@ -9,7 +9,7 @@ TL9greZZ9oi42BmdZVimg3QtoKaEMBMe4F
 ERC20, BEP20: <br/>
 0xb5caCD5d1e66C21dde1bAdfCAB8C583a9F6aF5b4
 
-**Server1**
+**Server 1 (B)**
 ------------------------------------------------
 
 TRC20: <br/>
@@ -19,7 +19,7 @@ ERC20, BEP20: <br/>
 0x342B2Bfde175f9b1B17C7bD41E921c31a5011B30
 
 
-**DEV MAIN**
+**SERVER 2**
 ------------------------------------------------
 
 TRC20: <br/>
