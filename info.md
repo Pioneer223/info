@@ -1,6 +1,6 @@
 Payment Server Subscription
 
-**Server0**
+**Server 0**
 ------------------------------------------------
 
 TRC20: <br/>
@@ -8,6 +8,15 @@ TL9greZZ9oi42BmdZVimg3QtoKaEMBMe4F
 
 ERC20, BEP20: <br/>
 0xb5caCD5d1e66C21dde1bAdfCAB8C583a9F6aF5b4
+
+**Server 1**
+------------------------------------------------
+
+TRC20: <br/>
+TDyG3ZdLSyZ1akWwPEfkRqxqAbnEPp8bPy
+
+ERC20, BEP20: <br/>
+0x08540B519c7cCDC9dF6f71FF864762Dc6fDdddcd
 
 **SERVER 3**
 ------------------------------------------------
