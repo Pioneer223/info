@@ -12,6 +12,9 @@ ERC20, BEP20: <br/>
 **Server 1**
 ------------------------------------------------
 
+BTC: <br/>
+bc1qppwwvvauxjv5sx8fcyveujlfd9zq8l0lmg0md4
+
 TRC20: <br/>
 TDyG3ZdLSyZ1akWwPEfkRqxqAbnEPp8bPy
 
