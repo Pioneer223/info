@@ -30,7 +30,12 @@ TUQMYTG8ydWtkK3WqbZzhVRjwPosp54bpy
 ERC20, BEP20: <br/>
 0x53c198e1Dc0EF4Adc618b7895E40e367D352D9B6
 
+**Google Admob Marketing**
+------------------------------------------------
 
+TRC20 : TAHPmzxgwCnWaNpjocknyhfoTiyT28Cpv1  <br/>
+BEP20 : 0x00f26922041cacfe29a1455d8f813fe975d98efa  <br/>
+ERC20 : 0xc508203fcf7b95b18451d7934478fe24e243db3f  <br/>
 
 **DEV 001**
 ------------------------------------------------
