@@ -102,5 +102,5 @@ Erc20: 0xB69Da5FcDF62D52E0a4F1F817a12287933270b76 <br/>
 
 **SERVER TAO**
 ------------------------------------------------
- Coldkey server_tao  ss58_address 5CK5tcYZZMmB9XAxD6SuLt5i3D1xKtDbk1RCDEibKk9Kbmpb <br/>
- Hotkey server_hot  ss58_address 5ERXLkUDnTDgKGsCrAs2khVkNzZggTFKwesismT3JWQmXwkq <br/>
+ Coldkey(server_tao): 5CK5tcYZZMmB9XAxD6SuLt5i3D1xKtDbk1RCDEibKk9Kbmpb <br/>
+ Hotkey(server_hot): 5ERXLkUDnTDgKGsCrAs2khVkNzZggTFKwesismT3JWQmXwkq <br/>
