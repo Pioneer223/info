@@ -98,3 +98,9 @@ Sui : 0xa11061f1c5dfb3bab9a9d658c4975dba04f8a05903cb04fe08e8b4e65c921572 <br/>
 
 Trc20: TZ5g5vVYFhmzqUgTENrZYgMdo7LDswC4vG <br/>
 Erc20: 0xB69Da5FcDF62D52E0a4F1F817a12287933270b76 <br/>
+
+
+**SERVER TAO**
+------------------------------------------------
+ Coldkey server_tao  ss58_address 5CK5tcYZZMmB9XAxD6SuLt5i3D1xKtDbk1RCDEibKk9Kbmpb
+ Hotkey server_hot  ss58_address 5ERXLkUDnTDgKGsCrAs2khVkNzZggTFKwesismT3JWQmXwkq
