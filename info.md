@@ -1,6 +1,19 @@
 Payment Server Subscription
 
-**Server 0 (New)**
+**Server 0 (New February)**
+------------------------------------------------
+
+BTC: <br/>
+bc1qudmnmf697k8je4ktzeldf03snef6denx5c3eg5
+
+TRC20: <br/>
+TUsq8XUmVwyP7BmqtkVdG7bfnjBzmBUdhv
+
+ERC20, BEP20: <br/>
+0x4451006E51918b2AC60d128372267eD1fa26B420
+
+
+**Server 1 (New)**
 ------------------------------------------------
 
 TRC20: <br/>
@@ -9,7 +22,7 @@ TWu8fEM3drsTuU8W127bh8h8ZUZnjw7sZk
 ERC20, BEP20: <br/>
 0xaB570784C15F6bE020a025B8fE1729bF7Ea38Bf5
 
-**Server 1 (Old)**
+**Server 2 (Old)**
 ------------------------------------------------
 
 BTC: <br/>
