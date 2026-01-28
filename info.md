@@ -12,8 +12,21 @@ TUsq8XUmVwyP7BmqtkVdG7bfnjBzmBUdhv
 ERC20, BEP20: <br/>
 0x4451006E51918b2AC60d128372267eD1fa26B420
 
+**Server 1 (January February)**
+------------------------------------------------
 
-**Server 1 (New)**
+BTC: <br/>
+bc1q0ctdm0t8z2660maxgxajqsfkwfsrnvama3yrh5
+
+TRC20: <br/>
+TS3M6M5WzoAWCP6jswCokaYDvbtSs4f1Bq
+
+ERC20, BEP20: <br/>
+0xDA8d21DC3D711F096a14d0c201D49e22f69656F0
+
+------ **DEPRECED** ---------
+
+**Server 2 (New)**
 ------------------------------------------------
 
 TRC20: <br/>
@@ -22,7 +35,7 @@ TWu8fEM3drsTuU8W127bh8h8ZUZnjw7sZk
 ERC20, BEP20: <br/>
 0xaB570784C15F6bE020a025B8fE1729bF7Ea38Bf5
 
-**Server 2 (Old)**
+**Server 3 (Old)**
 ------------------------------------------------
 
 BTC: <br/>
