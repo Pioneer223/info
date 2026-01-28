@@ -24,9 +24,7 @@ TS3M6M5WzoAWCP6jswCokaYDvbtSs4f1Bq
 ERC20, BEP20: <br/>
 0xDA8d21DC3D711F096a14d0c201D49e22f69656F0
 
------- **DEPRECED** ---------
-
-**Server 2 (New)**
+XXX**Server 2 (New)**XXX
 ------------------------------------------------
 
 TRC20: <br/>
@@ -35,7 +33,7 @@ TWu8fEM3drsTuU8W127bh8h8ZUZnjw7sZk
 ERC20, BEP20: <br/>
 0xaB570784C15F6bE020a025B8fE1729bF7Ea38Bf5
 
-**Server 3 (Old)**
+XXX**Server 3 (Old)**XXX
 ------------------------------------------------
 
 BTC: <br/>
