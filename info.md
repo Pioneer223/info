@@ -24,7 +24,7 @@ TUsq8XUmVwyP7BmqtkVdG7bfnjBzmBUdhv
 ERC20, BEP20: <br/>
 0x4451006E51918b2AC60d128372267eD1fa26B420
 
-**Server 1 (January February)**
+**Server 1 (January Fee)**
 ------------------------------------------------
 
 BTC: <br/>
